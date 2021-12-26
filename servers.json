@@ -1,4 +1,11 @@
 [
+     {
+        "id": "hokupvp",
+        "name": "Hoku PvP",
+        "addresses": [
+            "hoku.rip"
+        ]
+    },
     {
         "id": "pgmarcade",
         "name": "PvP Arcade",
